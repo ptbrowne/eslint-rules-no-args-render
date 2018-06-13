@@ -4,7 +4,6 @@ class Toto {
     }
 }
 
-
 class Toto extends React.Component {
     render (toto) {
         
