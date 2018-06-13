@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "no-args-render": "error"
+  },
+  "parserOptions": { "ecmaVersion": 6 }
+}
+
